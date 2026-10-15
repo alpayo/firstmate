@@ -1,0 +1,5 @@
+== HEAD 63b9ddf (fix), same local-only spawn ==
+spawned companyos-shape harness=claude kind=ship mode=local-only yolo=off window=firstmate:fm-companyos-shape worktree=/private/tmp/fmscen/headlab3.MCtP/wt
+git status --porcelain:
+[end]
+settings.local.json byte-identical

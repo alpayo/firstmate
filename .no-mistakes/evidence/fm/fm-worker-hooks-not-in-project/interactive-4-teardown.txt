@@ -1,0 +1,14 @@
+== fm-teardown companyos-shape output ==
+fm-gate-refuse: gate agent lifecycle permitted only against lab home /private/tmp/fmscen/lab.38Wd/labhome
+/private/tmp/fmscen/lab.38Wd/project: already current
+teardown companyos-shape complete (window firstmate:fm-companyos-shape, worktree /private/tmp/fmscen/lab.38Wd/wt)
+Backlog: companyos-shape just finished (this home keeps no markdown backlog at /private/tmp/fmscen/lab.38Wd/labhome/data/backlog.md). Update /private/tmp/fmscen/lab.38Wd/labhome/data/backlog.md - move companyos-shape to Done, keep Done to the 10 most recent, then re-scan Queued and dispatch only work whose blockers are gone and date is due.
+== worker tree after teardown: git status --porcelain ==
+[end]
+.claude/settings.local.json still byte-identical to committed allow-list
+== project checkout ==
+[end]
+== lab state after teardown ==
+home-summary.json
+operational-inbox
+terminal-outcomes

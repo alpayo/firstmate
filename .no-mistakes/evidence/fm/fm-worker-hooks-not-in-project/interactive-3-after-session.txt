@@ -1,0 +1,9 @@
+busy-state after /exit: v1 gen=g1792074053.30377.13313 seq=4 state=idle source=claude-hook event=session-end ts=1792074101
+settings file passed via --settings:
+{"feedbackDrafts":"off","attribution":{"commit":"","pr":"","sessionUrl":false},"hooks":{"UserPromptSubmit":[{"hooks":[{"type":"command","command":"'/Users/alpayozturk/.no-mistakes/worktrees/0dbcbadb78d6/01M4ZYN7R605DX3KCQZ2RVF1RS/bin/fm-busy-event.sh' apply '/private/tmp/fmscen/lab.38Wd/home/state' 
+git status --porcelain (worker tree):
+[end porcelain]
+git status --porcelain --ignored:
+[end]
+.claude/settings.local.json byte-identical to committed allow-list
+{"permissions":{"allow":["Bash(npm run test:*)","Bash(git status:*)","Bash(ls:*)"]}}

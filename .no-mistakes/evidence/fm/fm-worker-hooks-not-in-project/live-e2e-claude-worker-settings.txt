@@ -1,0 +1,3 @@
+ok - claude 2.1.300 (Claude Code): (tracked .claude/settings.local.json) the --settings hooks reach this task beside the project's own, and the tree stays clean
+ok - claude 2.1.300 (Claude Code): (ignored .claude/settings.local.json) the --settings hooks reach this task beside the project's own, and the tree stays clean
+# claude worker settings live guard checked: tracked ignored

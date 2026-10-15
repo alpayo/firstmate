@@ -1,0 +1,6 @@
+== BASE 9b1ada0 (pre-fix) fm-spawn (local-only ship; base tree is a git-archive export, so the self-repo publication gate cannot run no-mistakes mode) on a project committing .claude/settings.local.json ==
+spawned companyos-shape harness=claude kind=ship mode=local-only yolo=off window=firstmate:fm-companyos-shape worktree=/private/tmp/fmscen/baselab3.NilE/wt
+git status --porcelain:
+ M .claude/settings.local.json
+settings.local.json now (first 400 chars):
+{"hooks":{"UserPromptSubmit":[{"hooks":[{"type":"command","command":"'/tmp/fmscen/base/bin/fm-busy-event.sh' apply '/private/tmp/fmscen/baselab3.NilE/home/state' 'companyos-shape' busy --gen 'g1792074175.45767.15393' --source claude-hook --event user-prompt-submit 2>/dev/null || true"}]}],"Stop":[{"hooks":[{"type":"command","command":"touch '/private/tmp/fmscen/baselab3.NilE/home/state/companyos-s

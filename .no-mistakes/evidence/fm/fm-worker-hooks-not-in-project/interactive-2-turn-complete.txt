@@ -1,0 +1,12 @@
+▝▜██████▀  Opus 5.5 · Claude Max
+ ▝▝   ▝▝   /private/tmp/fmscen/lab.38Wd/wt
+⚠ 4 MCP servers need authentication · run /mcp
+⚠ Your login expires in 1 day · run /login to renew
+❯ Reply with only the word OK. Do not use any tools.
+⏺ OK
+✻ Cogitated for 1s · done 5:21 PM
+                                                                                                                                                     Your login expires in 1 day · run /login to renew
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⏵⏵ bypass permissions on (shift+tab to cycle) · ← for agents
